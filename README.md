@@ -1,6 +1,6 @@
 # BE-Bot
 
-BE-Bot is a fun and interactive Discord bot project. It's not just a moderation bot, but also a fun bot with games and a shop system. This bot is my first Discord bot project and it's written in Python using Discord API v1.
+BE-Bot is a fun and interactive Discord bot project. It's not just a moderation bot, but also a fun bot with games and a shop system. This bot is my first Discord bot project and it's written in Python using Discord API v1 and was launched to public on May 4th 2021.
 
 ## Features
 
