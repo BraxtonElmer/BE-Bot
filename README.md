@@ -18,10 +18,6 @@ This bot is no longer under review and it may be outdated after the release of D
 
 install all necessary libraries with ```pip install -r requirements.txt```
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
