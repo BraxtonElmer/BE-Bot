@@ -1,3 +1,6 @@
+# Moderation Cog for BE Bot
+# Author: BraxtonElmer
+
 import discord
 from discord.ext import commands
 from discord.ext.commands import MissingPermissions

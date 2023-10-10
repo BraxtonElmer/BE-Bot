@@ -1,3 +1,5 @@
+# Configuration variables used in code.
+
 key = 'YOUR_BOT_TOKEN'
 sql_host = "HOST_IP/LOCALHOST"
 sql_user="SQL_USER"
